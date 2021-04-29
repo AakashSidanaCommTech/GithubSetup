@@ -3,7 +3,7 @@ public class FarmWrapper {
     public String status;	//NEW
     public String type;	//GROWER
     public boolean deleted;
-    public String createdDate;	//2019-08-05T10:29:41.616
+    public String createdDate;	//2019-08-05T10:29:41.6166
     public String lastModifiedDate;	//2019-10-29T15:52:57.208
     public cls_partners partners;
     public cls_campaign campaign;
