@@ -6,7 +6,7 @@
 * Modification Log
 * Developer                   Date                   Description
 * ----------------------------------------------------------------------------
-* Aakash                     14/Aug/2020                 Created
+* Aakash                     14/Aug/2020                 Created By
 *************************************************************************************/
 global class BatchDelete implements Database.Batchable<sObject> {
   // Variable declaration 
