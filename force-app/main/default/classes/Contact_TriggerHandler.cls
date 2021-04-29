@@ -1,6 +1,6 @@
 public class Contact_TriggerHandler {
 
-    /* Function for managing updates to the Primary Contact checkbox */
+    /* Function for managing updates to the Primary Contact checkbox.. */
     public static void updatePrimaryContact(Contact[] newList, Contact[] oldList){
 
         List<Id> primaryAccountIds = new List<Id>();
