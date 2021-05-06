@@ -1,12 +1,12 @@
 /**************************************************************************************
 * Apex Class Name  :     BatchDelete
 * Version            :     1.0
-* Created Date       :     14/Aug/2020
+* Created Date       :     15/Aug/2020
 * Function           :     This is Batch class to match duplicate contacts and delete them  
 * Modification Log
 * Developer                   Date                   Description
 * ----------------------------------------------------------------------------
-* Aakash                     14/Aug/2020                 Created By
+* Aakash                     15/Aug/2020                 Created By
 *************************************************************************************/
 global class BatchDelete implements Database.Batchable<sObject> {
   // Variable declaration 
